@@ -177,12 +177,13 @@
 
 <div class="pfs__wsq7ni-0 bwvdnR">
     <div class="pfs__sc-1sj5qgb-0 eRZAlu">
-        <p class="Text-c11n-8-62-4__sc-aiai24-0 gGiUMt">Metrostate Group is committed to ensuring digital accessibility for individuals with disabilities. We are continuously working to improve the accessibility of our web experience for everyone, and we welcome feedback and accommodation requests. If you wish to report an issue or seek an accommodation, please <a href="https://zillow.zendesk.com/hc/en-us/requests/new?ticket_form_id=39140" rel="nofollow" class="Anchor-c11n-8-62-4__sc-hn4bge-0 hjVzie">let us know</a>.
+        <p class="Text-c11n-a
+        8-62-4__sc-aiai24-0 gGiUMt">Metrostate Group is committed to ensuring digital accessibility for individuals with disabilities. We are continuously working to improve the accessibility of our web experience for everyone, and we welcome feedback and accommodation requests. If you wish to report an issue or seek an accommodation, please <a href="https://zillow.zendesk.com/hc/en-us/requests/new?ticket_form_id=39140" rel="nofollow" class="Anchor-c11n-8-62-4__sc-hn4bge-0 hjVzie">let us know</a>.
         </p>
     </div>
     <div class="pfs__sc-1sj5qgb-0 eRZAlu">
         <p class="Text-c11n-8-62-4__sc-aiai24-0 gGiUMt">Metrostate, Inc. holds real estate brokerage licenses in multiple African Regions. A list of our real estate licenses is available <a href="/z/info/real-estate-licenses/" class="Anchor-c11n-8-62-4__sc-hn4bge-0 hjVzie">here</a>.<br>
-            TREC: <a href="https://s.zillow.net/pfs/static/TREC_ZINC_1-25-21.pdf" rel="nofollow" class="Anchor-c11n-8-62-4__sc-hn4bge-0 hjVzie">Information about brokerage services</a>, <a href="https://www.trec.texas.gov/sites/default/files/pdf-forms/CN%201-3.pdf" rel="nofollow" class="Anchor-c11n-8-62-4__sc-hn4bge-0 hjVzie">Consumer protection notice</a><br>
+            TREC: <a href="https://s.zillow.n'et/'pfs/static/TREC_ZINC_1-25-21.pdf" rel="nofollow" class="Anchor-c11n-8-62-4__sc-hn4bge-0 hjVzie">Information about brokerage services</a>, <a href="https://www.trec.texas.gov/sites/default/files/pdf-forms/CN%201-3.pdf" rel="nofollow" class="Anchor-c11n-8-62-4__sc-hn4bge-0 hjVzie">Consumer protection notice</a><br>
         </p>
         <div class="Spacer-c11n-8-62-4__sc-17suqs2-0 kBnFbi"></div><a href="https://www.zillow.com/z/info/contact-us/" class="Anchor-c11n-8-62-4__sc-hn4bge-0 pfs__chkjii-0 iPhRTS">Contact Metrostate, Inc. Brokerage</a><p></p>
     </div>
