@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+
+}
+element.style {
+}
+
+ .dIcUbl:last-of-type {
+     margin-right: 0px;
+     margin-bottom: 0px;
+ }
+@media (min-width: 0px){
+
+.hlwfuE {
+    flex-basis: 384px;
+    padding: 24px;
+    text-align: center;
+}
+
+ .hlwfuE {
+     display: flex;
+     position: relative;
+     border: none;
+     cursor: pointer;
+     max-width: 100%;
+     background-color: rgb(255, 255, 255);
+     box-sizing: border-box;
+     transition: all 300ms ease-in-out 0s;
+     flex-shrink: 0;
+ }
+
+ .ihCyHh {
+     margin-bottom: 24px;
+     padding: 16px;
+     background-color: rgb(255, 255, 255);
+     border-width: 1px 1px 3px;
+     border-style: solid;
+     border-color: rgb(209, 209, 213) rgb(209, 209, 213) rgb(0, 106, 255);
+     border-image: initial;
+     box-shadow: rgb(0 0 0 / 30%) 0px 2px 4px 0px;
+ }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+    user agent stylesheet
+    div {
+        display: block;
+    }
+    user agent stylesheet
+    li {
+        text-align: -webkit-match-parent;
+    }
+    .zsg-form-group, .zsg-form-group li, ol, ul {
+        list-style: none;
+    }
+    user agent stylesheet
+    ul {
+        list-style-type: disc;
+    }
+
+ .giGuoQ {
+     background-color: rgb(249, 249, 251);
+     text-align: center;
+     margin: auto;
+ }
+    .jtvWcK {
+        text-align: center;
+        margin: auto;
+    }
+    body {
+        line-height: 1.5;
+        color: #2a2a33;
+    }
+    html {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: transparent;
+        font-family: 'Open Sans',Gotham,gotham,Tahoma,Geneva,sans-serif;
+        font-size: 93.75%;
+    }
+    *, :after, :before {
+        box-sizing: border-box;
+    }
+
+ .hlwfuE::after {
+     content: "";
+     box-shadow: rgb(209 209 213) 0px 5px 15px;
+     width: 100%;
+     height: 100%;
+     opacity: 0;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+ }
+
+ .ihCyHh::after {
+     bottom: -3px;
+ }
+
+ .ihCyHh::after {
+     inset: -1px;
+ }
+    *, :after, :before {
+        box-sizing: border-box;
+    }}
